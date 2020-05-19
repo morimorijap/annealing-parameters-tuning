@@ -1,6 +1,8 @@
 # annealing-parameters-tuning
 Hyper-parameters tuning for D-Wave
 
+D-Wave has released the real machine for research for CONVID19, so I hope it helps. Most people will find it difficult to adjust hyperparameters in the future, so I published this article.
+
 D-Wave
 https://cloud.dwavesys.com/leap/signup/covid19/
 
